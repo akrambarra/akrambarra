@@ -60,9 +60,9 @@ Que ce soit pour développer des applications, automatiser des tâches ou explor
 
 ## 🌍 Informations supplémentaires
 
-- 💼 LinkedIn : <a href="https://www.linkedin.com/in/akram-barra-3080b934a/">ici</a>
-- 🌐 Portfolio : <a href="https://akrambarra.fr/">akrambarra.fr</a>
-- 📧 Email : <a href="mailto:akrambarra@outlook.com">akrambarra@outlook.com</a>
+- 💼 LinkedIn : <a target="_blank" href="https://www.linkedin.com/in/akram-barra-3080b934a/">ici</a>
+- 🌐 Portfolio : <a target="_blank" href="https://akrambarra.fr/">akrambarra.fr</a>
+- 📧 Email : <a target="_blank" href="mailto:akrambarra@outlook.com">akrambarra@outlook.com</a>
 
 ---
 
